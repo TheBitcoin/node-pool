@@ -125,7 +125,7 @@ var pool = poolModule.Pool({
 });
 ```
 
-### Step 2 - Use pool in your code to acquire/release resources
+### Step 2 - Use pool in your code to acquire/release resources https://forobits.com
 
 ```js
 // acquire connection - callback function is called
